@@ -32,7 +32,7 @@ npm install
 npm run dev
 ```
 
-Visit http://localhost:3000 in your browser to access the app.
+Visit http://localhost:5173 in your browser to access the app.
 
 Usage:
 Sign Up for a new account or Log In with an existing one.
